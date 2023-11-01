@@ -20,6 +20,7 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: S.Shanmathi
 RegisterNumber: 212222100049
 */
+
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("/content/Mall_Customers (1).csv")
